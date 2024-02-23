@@ -1,4 +1,4 @@
-#Bubble Sorting Algorithm
+# Bubble Sorting Algorithm
 
 **Bubble Sort is a sorting algorithm that works by repeatedly swapping the adjacent elements.**
 

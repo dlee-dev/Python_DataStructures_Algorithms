@@ -1,3 +1,8 @@
-#Array + Table + List Data Structures
+# Array + Table + List Data Structures
 
-Some simple operations and methods used on popular data structures
+* Table Definition
+* Table Add Operation
+* Table Insert Operation
+* Table Remove Operation
+* Table Search Operation
+* List Definition
